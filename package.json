@@ -2,7 +2,7 @@
   "name": "websocket-proxy",
   "version": "1.0.0",
   "description": "WebSocket proxy forwarding traffic from port 8080 to 4000 and starting web.js",
-  "main": "proxy.js",
+  "main": "main.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
